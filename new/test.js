@@ -5,6 +5,6 @@ var new2="iui78u";
 let state;
 console.table([accountid,city,new2,state]);
 /*
-prefer not to use var
-beacuse of its block scope and functional scope
+prefer not to use var 
+beacuse of its block scope and functional scope .
 */
