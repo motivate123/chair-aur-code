@@ -1,4 +1,4 @@
-//data types
+// primitive data types
 let name="neeraj"//string datatype
 let islogedin=false //boolean
 let age=18 //number datatype
