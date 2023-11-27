@@ -5,6 +5,9 @@ let age=18 //number datatype
 //number -2 to power 53
 //bigint
 //string -""
+//for string
+console.log("neeraj")// we can use single court and doible court both 
+console.log("neeraj's  ojha ")// but for like this we can use double court as single court is used if we use single court it will show error and will identify as neeraj's is ending there not will consider ojha
 //null--stand alone value
 //undefined
 //symbol--unique
