@@ -1,4 +1,4 @@
-// primitive data types
+// there are two datatypes objects and primitive data types all are primitive except null which ic object
 let name="neeraj"//string datatype
 let islogedin=false //boolean
 let age=18 //number datatype
